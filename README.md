@@ -1,5 +1,5 @@
 - 👋 Hi, I’m HarryYin
-- 👀 I’m interested in playing video game especially street fighter, assassin creed and other ACT game
+- 👀 I’m interested in playing video game and watching anime 
 - 🌱 I’m currently learning web developing
 - 📫 How to reach me wechat-harryyin03, ig-harryyin03, discord-.harryyin
 
