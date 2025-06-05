@@ -15,9 +15,11 @@
 
 ### 📚 Currently working on:
 
-- The Odin Project – full-stack JavaScript curriculum
+- The Odin Project – Advancing through the full-stack JavaScript curriculum with a focus on clean code, Git workflow, and project-based learning
 
-- Personal projects & contributing to group apps
+- Building mini web projects to apply front-end and back-end concepts (HTML, CSS, JavaScript, Node.js)
+
+- Improving coding practices by refactoring older projects and strengthening React skills
 
 ## 🚀 Notable Projects
 
@@ -25,7 +27,7 @@
 - [Car Market Analytics](https://github.com/HarryYin03/carmarket_analytics) – React dashboard with dynamic data visualization and chart components
 - [Anime Face Stylization](https://github.com/HarryYin03/Anime-Face-Stylelization) – GAN-based project converting real images into anime style
 - [MarbleRun](https://github.com/HarryYin03/MarbleRun) – 3D physics simulation game developed in Unreal Engine with C++
-- [Pawsitive](https://github.com/Lucas1792003/Pawsitive) – Pet adoption platform built with HTML, CSS, JavaScript, and PHP for user and organization matching
+- [Pawsitive](https://github.com/HarryYin03/Pawsitive_Database) – Pet adoption platform built with HTML, CSS, JavaScript, and PHP for user and organization matching
 
 
 🌐 Languages: English, Chinese, Burmese (Fluent), Japanese (Basic)
