@@ -1,9 +1,35 @@
-- 👋 Hi, I’m HarryYin
-- 👀 I’m interested in playing video game and watching anime 
-- 🌱 I’m currently learning web developing
-- 📫 How to reach me wechat-harryyin03, ig-harryyin03, discord-.harryyin
+# 👋 Hi, I'm Thu Ya Hlaing
+## I'm an aspiring full-stack developer with a passion for building real-world projects through team collaboration, self-learning, and hands-on coding.
 
-<!---
-HarryYin03/HarryYin03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔧 I love working with:
+
+- JavaScript, Python, C++
+
+- React.js, Node.js, MongoDB, Express
+
+- PyTorch, OpenCV (for AI/Computer Vision)
+
+- Unreal Engine (for 3D simulation & game logic)
+
+- AWS Cloud Foundations Certified
+
+### 📚 Currently working on:
+
+- The Odin Project – full-stack JavaScript curriculum
+
+- Personal projects & contributing to group apps
+
+### 🚀 Notable Projects:
+
+Nest Finder – Full-stack rental marketplace
+
+Car Market Analytics – React-based data dashboard
+
+Anime Face Stylization – GAN-powered style transfer
+
+MarbleRun – 3D game simulation in Unreal Engine
+
+🌐 Languages: English, Chinese, Burmese (Fluent), Japanese (Basic)
+📫 Contact me at: thuyahlaing04@gmail.com
+🔗 My LinkedIn 
+
