@@ -19,17 +19,16 @@
 
 - Personal projects & contributing to group apps
 
-### 🚀 Notable Projects:
+## 🚀 Notable Projects
 
-Nest Finder – Full-stack rental marketplace
+- [Nest Finder](https://github.com/HarryYin03/nest_finder1) – Full-stack rental marketplace for property owners, renters, and brokers
+- [Car Market Analytics](https://github.com/HarryYin03/carmarket_analytics) – React dashboard with dynamic data visualization and chart components
+- [Anime Face Stylization](https://github.com/HarryYin03/Anime-Face-Stylelization) – GAN-based project converting real images into anime style
+- [MarbleRun](https://github.com/HarryYin03/MarbleRun) – 3D physics simulation game developed in Unreal Engine with C++
+- [Pawsitive](https://github.com/Lucas1792003/Pawsitive) – Pet adoption platform built with HTML, CSS, JavaScript, and PHP for user and organization matching
 
-Car Market Analytics – React-based data dashboard
-
-Anime Face Stylization – GAN-powered style transfer
-
-MarbleRun – 3D game simulation in Unreal Engine
 
 🌐 Languages: English, Chinese, Burmese (Fluent), Japanese (Basic)
 📫 Contact me at: thuyahlaing04@gmail.com
-🔗 My LinkedIn 
+🔗 My LinkedIn (www.linkedin.com/in/thuya-hlaing-5308782a5) 
 
