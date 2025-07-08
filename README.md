@@ -25,7 +25,7 @@
 
 - [Nest Finder](https://github.com/HarryYin03/nest_finder1) – Full-stack rental marketplace for property owners, renters, and brokers
 - [Car Market Analytics](https://github.com/HarryYin03/carmarket_analytics) – React dashboard with dynamic data visualization and chart components
-- [Anime Face Stylization](https://github.com/HarryYin03/Anime-Face-Stylelization) – GAN-based project converting real images into anime style
+- [Anime Face Stylization](https://github.com/HarryYin03/Face-Style) – GAN-based project converting real images into anime style
 - [MarbleRun](https://github.com/HarryYin03/MarbleRun) – 3D physics simulation game developed in Unreal Engine with C++
 - [Pawsitive](https://github.com/HarryYin03/Pawsitive_Database) – Pet adoption platform built with HTML, CSS, JavaScript, and PHP for user and organization matching
 
